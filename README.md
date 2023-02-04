@@ -14,8 +14,8 @@
 <a href="https://discord.gg/7174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7174" height="30" width="40" /></a>
 
   <h3 align="center">   </h3>
-  <h3 align="center">/  </h3>
-  <h3 align="center">  </h3>
+  <h3 align="center">   </h3>
+  <h3 align="center">   </h3>
   <h3 align="center">   </h3>
 
 
