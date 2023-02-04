@@ -3,7 +3,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/121237034/216750903-2fd2b82d-7e74-4b3b-a286-337527bcf31b.png)
 <h1 align="center">ฮาโหลล ซาฟารีเวิลล์🌵</h1>
 <h3 align="center">A passionate frontend developer from the moon 🌕</h3>
-<img align="right" alt="Coding" width=“1000” src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width=“400” src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deasii&label=Profile%20views&color=0e75b6&style=flat" alt="deasii" /> </p>
 
