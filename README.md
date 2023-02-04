@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 ![MasterHead](https://user-images.githubusercontent.com/121237034/216750903-2fd2b82d-7e74-4b3b-a286-337527bcf31b.png)
 <h1 align="center">ฮาโหลล ซาฟารีเวิลล์🌵</h1>
